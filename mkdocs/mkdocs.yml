@@ -1,8 +1,8 @@
-site_name: Litmus Experiments
+site_name: HCE Staging Docs
 site_url: https://chaosnative.github.io/hce-docs-staging
 site_description: >-
-  It contains litmus chaos experiments docs
-repo_name: litmuschaos/litmus
+  Staging area for HCE Enterprise public docs content
+repo_name: chaosnative/hce-docs-staging
 repo_url: https://github.com/chaosnative/hce-docs-staging
 theme: 
   name: material
@@ -10,7 +10,7 @@ theme:
   font:
     text: Work Sans
   highlightjs: true
-  logo: images/litmus.png
+  logo: images/harness-chaos-engineering.png
   palette:
     - scheme: default
       primary: indigo
