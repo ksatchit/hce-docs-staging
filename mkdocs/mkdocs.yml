@@ -83,8 +83,8 @@ nav:
       - Installation: 
         - Kubernetes: experiments/categories/pods/container-kill.md
         - OpenShift: experiments/categories/kafka/kafka-broker-pod-failure.md
-      - First Scenario: experiments/categories/pods/container-kill.md
-
+      - Running a Sample Chaos Scenario: experiments/categories/pods/container-kill.md
+      - Connecting Chaos Delegates: experiments/categories/pods/container-kill.md
 
     - Technical Reference:
       - Chaos Resources:
@@ -92,7 +92,7 @@ nav:
         - Platform:
           - Chaos Center: experiments/concepts/chaos-resources/chaos-engine/contents.md
           - Chaos Delegates: experiments/concepts/chaos-resources/chaos-engine/engine-state.md
-          - Experiments: experiments/concepts/chaos-resources/chaos-engine/application-details.md
+          - Enterprise Hubs: experiments/concepts/chaos-resources/chaos-engine/application-details.md
           - Hypothesis Validation: experiments/concepts/chaos-resources/chaos-engine/rbac-details.md
           - Monitoring: experiments/concepts/chaos-resources/chaos-engine/runtime-details.md
 
@@ -105,5 +105,3 @@ nav:
         - Install: experiments/troubleshooting/install.md 
         - Platform: experiments/troubleshooting/experiments.md
         - Experiments: experiments/troubleshooting/portal.md
-    - Platform Docs ⧉: https://docs.litmuschaos.io/
-    - Releases ⧉: https://github.com/litmuschaos/litmus/releases
