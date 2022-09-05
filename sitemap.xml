@@ -31,6 +31,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/creating-your-own-chaoshubs/placeholder/</loc>
+         <lastmod>2022-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/defining-hypothesis-using-probes/placeholder/</loc>
          <lastmod>2022-09-05</lastmod>
          <changefreq>daily</changefreq>
