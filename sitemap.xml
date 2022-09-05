@@ -56,6 +56,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/managing-chaos-scenarios/placeholder/</loc>
+         <lastmod>2022-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/running-a-sample-chaos-scenario/placeholder/</loc>
          <lastmod>2022-09-05</lastmod>
          <changefreq>daily</changefreq>
