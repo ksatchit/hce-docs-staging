@@ -79,21 +79,21 @@ markdown_extensions:
 nav:
     - Home: index.md
     - User Guide:
-      - Contents: placeholder.md
+      - Contents: user-guide/content/placeholder.md
       - Installation: 
-        - Kubernetes: placeholder.md
-        - OpenShift: placeholder.md
-      - Running a Sample Chaos Scenario: placeholder.md
-      - Connecting Chaos Delegates: placeholder.md
-      - Creating Custom Chaos Scenarios: placeholder.md
-      - Defining Hypothesis Using Probes: placeholder.md 
-      - Analyzing Chaos Runs: placeholder.md
-      - Managing Chaos Projects: placeholder.md 
-      - Creating Your Own ChaosHubs: placeholder.md 
-      - Managing Chaos Scenarios: placehoder.md
-      - Running a Gameday: placeholder.md
-      - Including Chaos in Harness Pipeline: placeholder.md 
-      - Building Your Own Chaos Experiment: placeholder.com
+        - Kubernetes: user-guide/installation/kubernetes/placeholder.md
+        - OpenShift: user-guide/installation/openshift/placeholder.md
+      - Running a Sample Chaos Scenario: user-guide/running-a-sample-chaos-scenario/placeholder.md
+      - Connecting Chaos Delegates: user-guide/connecting-chaos-delegates/placeholder.md
+      - Creating Custom Chaos Scenarios: user-guide/creating-custom-chaos-scenarios/placeholder.md
+      - Defining Hypothesis Using Probes: user-guide/defining-hypothesis-using-probes/placeholder.md 
+      - Analyzing Chaos Runs: user-guide/analyzing-chaos-runs/placeholder.md
+      - Managing Chaos Projects: user-guide/managing-chaos-projects/placeholder.md 
+      - Creating Your Own ChaosHubs: user-guide/creating-your-own-chaoshubs/placeholder.md 
+      - Managing Chaos Scenarios: user-guide/managing-chaos-scenarios/placehoder.md
+      - Running a Gameday: user-guide/running-a-gameday/placeholder.md
+      - Including Chaos in Harness Pipeline: user-guide/including-chaos-in-harness-pipelines/placeholder.md 
+      - Building Your Own Chaos Experiment: user-guide/building-your-own-chaos-experiments/placeholder.com
 
     - Technical Reference:
       - Chaos Resources:
