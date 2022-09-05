@@ -104,6 +104,8 @@ nav:
         - Enterprise Hubs: technical-reference/enterprise-hubs/placeholder.md
         - Hypothesis Validation: technical-reference/hypothesis-validation/placeholder.md
         - Monitoring: technical-reference/monitoring/placeholder.md
+      - APIs:
+        - Chaos Manager: technical-reference/APIs/chaos-manager/placeholder.md
 
     - HCE FAQ:
       - FAQ: 
