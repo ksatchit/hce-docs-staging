@@ -76,6 +76,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chaosnative.github.io/hce-docs-staging/troubleshooting/integrations/placeholder/</loc>
+         <lastmod>2022-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/troubleshooting/platform/placeholder/</loc>
          <lastmod>2022-09-05</lastmod>
          <changefreq>daily</changefreq>
