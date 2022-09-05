@@ -79,29 +79,41 @@ markdown_extensions:
 nav:
     - Home: index.md
     - User Guide:
-      - Contents: experiments/categories/contents.md
+      - Contents: placeholder.md
       - Installation: 
-        - Kubernetes: experiments/categories/pods/container-kill.md
-        - OpenShift: experiments/categories/kafka/kafka-broker-pod-failure.md
-      - Running a Sample Chaos Scenario: experiments/categories/pods/container-kill.md
-      - Connecting Chaos Delegates: experiments/categories/pods/container-kill.md
+        - Kubernetes: placeholder.md
+        - OpenShift: placeholder.md
+      - Running a Sample Chaos Scenario: placeholder.md
+      - Connecting Chaos Delegates: placeholder.md
+      - Creating Custom Chaos Scenarios: placeholder.md
+      - Defining Hypothesis Using Probes: placeholder.md 
+      - Analyzing Chaos Runs: placeholder.md
+      - Managing Chaos Projects: placeholder.md 
+      - Creating Your Own ChaosHubs: placeholder.md 
+      - Managing Chaos Scenarios: placehoder.md
+      - Running a Gameday: placeholder.md
+      - Including Chaos in Harness Pipeline: placeholder.md 
+      - Building Your Own Chaos Experiment: placeholder.com
 
     - Technical Reference:
       - Chaos Resources:
-        - Contents: experiments/concepts/chaos-resources/contents.md
+        - Contents: placeholder.md
         - Platform:
-          - Chaos Center: experiments/concepts/chaos-resources/chaos-engine/contents.md
-          - Chaos Delegates: experiments/concepts/chaos-resources/chaos-engine/engine-state.md
-          - Enterprise Hubs: experiments/concepts/chaos-resources/chaos-engine/application-details.md
-          - Hypothesis Validation: experiments/concepts/chaos-resources/chaos-engine/rbac-details.md
-          - Monitoring: experiments/concepts/chaos-resources/chaos-engine/runtime-details.md
+          - Chaos Center: placeholder.md
+          - Chaos Delegates: placeholder.md
+          - Chaos Experiments: placeholder.md
+          - Enterprise Hubs: placeholder.md
+          - Hypothesis Validation: placeholder.md
+          - Monitoring: placeholder.md
 
     - Litmus FAQ:
       - FAQ: 
-        - Install: experiments/faq/install.md 
-        - Platform: experiments/faq/experiments.md
-        - Experiments: experiments/faq/portal.md
+        - Install: placeholder.md 
+        - Platform: placeholder.md
+        - Experiments: placeholder.md
+        - Integrations: placeholder.md
       - Troubleshooting:
-        - Install: experiments/troubleshooting/install.md 
-        - Platform: experiments/troubleshooting/experiments.md
-        - Experiments: experiments/troubleshooting/portal.md
+        - Install: placeholder.md 
+        - Platform: placeholder.md
+        - Experiments: placeholder.md
+        - Integrations: placeholder.md
