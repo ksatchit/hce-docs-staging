@@ -96,24 +96,23 @@ nav:
       - Building Your Own Chaos Experiment: user-guide/building-your-own-chaos-experiments/placeholder.com
 
     - Technical Reference:
-      - Chaos Resources:
-        - Contents: placeholder.md
-        - Platform:
-          - Chaos Center: placeholder.md
-          - Chaos Delegates: placeholder.md
-          - Chaos Experiments: placeholder.md
-          - Enterprise Hubs: placeholder.md
-          - Hypothesis Validation: placeholder.md
-          - Monitoring: placeholder.md
+      - Contents: technical-reference/content/placeholder.md
+      - Platform: 
+        - Chaos Center: technical-reference/chaos-center/placeholder.md
+        - Chaos Delegates: technical-reference/chaos-delegates/placeholder.md
+        - Chaos Experiments: technical-reference/chaos-experiments/placeholder.md
+        - Enterprise Hubs: technical-reference/enterprise-hubs/placeholder.md
+        - Hypothesis Validation: technical-reference/hypothesis-validation/placeholder.md
+        - Monitoring: technical-reference/monitoring/placeholder.md
 
-    - Litmus FAQ:
+    - HCE FAQ:
       - FAQ: 
-        - Install: placeholder.md 
-        - Platform: placeholder.md
-        - Experiments: placeholder.md
-        - Integrations: placeholder.md
+        - Install: faq/install/placeholder.md 
+        - Platform: faq/platform/placeholder.md
+        - Experiments: faq/experiments/placeholder.md
+        - Integrations: faq/integrations/placeholder.md
       - Troubleshooting:
-        - Install: placeholder.md 
-        - Platform: placeholder.md
-        - Experiments: placeholder.md
-        - Integrations: placeholder.md
+        - Install: troubleshooting/install/placeholder.md 
+        - Platform: troubleshooting/platform/placeholder.md
+        - Experiments: troubleshooting/experiments/placeholder.md
+        - Integrations: troubleshooting/integrations/placeholder.md
