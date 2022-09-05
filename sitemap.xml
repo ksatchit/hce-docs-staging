@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/building-your-own-chaos-experiments/placeholder/</loc>
+         <lastmod>2022-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/connecting-chaos-delegates/placeholder/</loc>
          <lastmod>2022-09-05</lastmod>
          <changefreq>daily</changefreq>
