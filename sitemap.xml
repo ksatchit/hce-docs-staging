@@ -101,6 +101,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/cleanup/chaos-delegate-disconnect/</loc>
+         <lastmod>2022-09-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/cleanup/cleanup-litmus-installation/</loc>
          <lastmod>2022-09-08</lastmod>
          <changefreq>daily</changefreq>
