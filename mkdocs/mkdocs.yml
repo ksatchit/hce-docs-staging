@@ -94,10 +94,10 @@ nav:
       - Running a Gameday: user-guide/running-a-gameday/placeholder.md
       - Including Chaos in Harness Pipeline: user-guide/including-chaos-in-harness-pipelines/placeholder.md 
       - Building Your Own Chaos Experiment: user-guide/building-your-own-chaos-experiments/placeholder.com
-      - Upgrade:
+      - Upgrade: user-guide/upgrade/content.md
         - Upgrading the Control Plane: user-guide/upgrade/control-plane.md
         - Upgrading the Execution Plane: user-guide/upgrade/execution-plane.md
-      - Cleanup: 
+      - Cleanup: user-guide/upgrade/content.md
         - Disconnecting the Chaos Delegates: user-guide/cleanup/chaos-delegate-disconnect.md
         - Uninstalling Litmus: user-guide/cleanup/cleanup-litmus-installation.md 
 
