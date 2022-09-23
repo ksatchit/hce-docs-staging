@@ -91,10 +91,10 @@ nav:
       - Managing Chaos Projects: user-guide/managing-chaos-projects/placeholder.md 
       - Managing Chaos Scenarios: user-guide/managing-chaos-scenarios/placehoder.md
       - Running a Gameday: user-guide/running-a-gameday/placeholder.md
-      - Upgrading the HCE platform: user-guide/upgrading-the-hce-platform/content.md
+      - Upgrading the HCE platform: 
         - Upgrading the Control Plane: user-guide/upgrading-the-hce-platform/control-plane.md
         - Upgrading the Execution Plane: user-guide/upgrading-the-hce-platform/execution-plane.md
-      - Cleanup Harness Chaos Installation: user-guide/cleanup-harness-chaos-installation/content.md
+      - Cleanup Harness Chaos Installation: 
         - Disconnecting Chaos Delegates: user-guide/cleanup-harness-chaos-installation/chaos-delegate-disconnect.md
         - Uninstalling HCE platform: user-guide/cleanup-harness-chaos-installation/cleanup-litmus-installation.md 
 
