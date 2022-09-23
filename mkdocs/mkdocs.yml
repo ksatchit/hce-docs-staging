@@ -80,7 +80,6 @@ nav:
     - Home: index.md
     - HCE Overview: overview/placeholder.md
     - User Guide:
-      - Overview: user-guide/overview/placeholder.md
       - Installation: user-guide/installation/kubernetes/placeholder.md
       - Run a Sample Chaos Scenario: user-guide/run-a-sample-chaos-scenario/placeholder.md
       - Connect Chaos Delegates: user-guide/connect-chaos-delegates/placeholder.md
