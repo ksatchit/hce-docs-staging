@@ -18,6 +18,8 @@ https://www.chaosnative.com/blog/principles_of_cloud_native
 
 ### How It Works
 
+- Basic user flow
+
 ### HCE v/s LitmusChaos
 
 - Table
