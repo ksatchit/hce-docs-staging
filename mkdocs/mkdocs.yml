@@ -80,9 +80,7 @@ nav:
     - Home: index.md
     - User Guide:
       - Contents: user-guide/content/placeholder.md
-      - Installation: 
-        - Kubernetes: user-guide/installation/kubernetes/placeholder.md
-        - OpenShift: user-guide/installation/openshift/placeholder.md
+      - Installation: user-guide/installation/kubernetes/placeholder.md
       - Running a Sample Chaos Scenario: user-guide/running-a-sample-chaos-scenario/placeholder.md
       - Connecting Chaos Delegates: user-guide/connecting-chaos-delegates/placeholder.md
       - Creating Custom Chaos Scenarios: user-guide/creating-custom-chaos-scenarios/placeholder.md
