@@ -79,7 +79,7 @@ markdown_extensions:
 nav:
     - Home: index.md
     - User Guide:
-      - Contents: user-guide/content/placeholder.md
+      - Overview: user-guide/overview/placeholder.md
       - Installation: user-guide/installation/kubernetes/placeholder.md
       - Run a Sample Chaos Scenario: user-guide/run-a-sample-chaos-scenario/placeholder.md
       - Connect Chaos Delegates: user-guide/connect-chaos-delegates/placeholder.md
