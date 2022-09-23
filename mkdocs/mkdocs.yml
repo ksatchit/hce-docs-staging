@@ -81,20 +81,20 @@ nav:
     - User Guide:
       - Contents: user-guide/content/placeholder.md
       - Installation: user-guide/installation/kubernetes/placeholder.md
-      - Running a Sample Chaos Scenario: user-guide/run-a-sample-chaos-scenario/placeholder.md
-      - Connecting Chaos Delegates: user-guide/connect-chaos-delegates/placeholder.md
-      - Creating Custom Chaos Scenarios: user-guide/create-custom-chaos-scenarios/placeholder.md
-      - Defining Hypothesis Using Probes: user-guide/define-hypothesis-using-probes/placeholder.md 
-      - Analyzing Chaos Runs: user-guide/analyze-chaos-runs/placeholder.md
-      - Managing Chaos Projects: user-guide/manage-chaos-projects/placeholder.md 
-      - Managing Chaos Scenarios: user-guide/manage-chaos-scenarios/placehoder.md
-      - Running a Gameday: user-guide/run-a-gameday/placeholder.md
-      - Upgrading the HCE platform: 
-        - Upgrading the Control Plane: user-guide/upgrade-the-hce-platform/control-plane.md
-        - Upgrading the Execution Plane: user-guide/upgrade-the-hce-platform/execution-plane.md
+      - Run a Sample Chaos Scenario: user-guide/run-a-sample-chaos-scenario/placeholder.md
+      - Connect Chaos Delegates: user-guide/connect-chaos-delegates/placeholder.md
+      - Create Custom Chaos Scenarios: user-guide/create-custom-chaos-scenarios/placeholder.md
+      - Define Hypothesis Using Probes: user-guide/define-hypothesis-using-probes/placeholder.md 
+      - Analyze Chaos Runs: user-guide/analyze-chaos-runs/placeholder.md
+      - Manage Chaos Projects: user-guide/manage-chaos-projects/placeholder.md 
+      - Manage Chaos Scenarios: user-guide/manage-chaos-scenarios/placehoder.md
+      - Run a Gameday: user-guide/run-a-gameday/placeholder.md
+      - Upgrade the HCE platform: 
+        - Upgrade the Control Plane: user-guide/upgrade-the-hce-platform/control-plane.md
+        - Upgrade the Execution Plane: user-guide/upgrade-the-hce-platform/execution-plane.md
       - Cleanup Harness Chaos Installation: 
-        - Disconnecting Chaos Delegates: user-guide/cleanup-harness-chaos-installation/chaos-delegate-disconnect.md
-        - Uninstalling HCE platform: user-guide/cleanup-harness-chaos-installation/cleanup-litmus-installation.md 
+        - Disconnect Chaos Delegates: user-guide/cleanup-harness-chaos-installation/chaos-delegate-disconnect.md
+        - Uninstall HCE platform: user-guide/cleanup-harness-chaos-installation/cleanup-litmus-installation.md 
 
     - Technical Reference:
       - Contents: technical-reference/content/placeholder.md
