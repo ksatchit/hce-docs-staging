@@ -91,12 +91,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/analyzing-chaos-runs/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/analyze-chaos-runs/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/building-your-own-chaos-experiments/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/build-your-own-chaos-experiments/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -116,7 +116,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/connecting-chaos-delegates/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/connect-chaos-delegates/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -126,22 +126,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/creating-custom-chaos-scenarios/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/create-custom-chaos-scenarios/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/creating-your-own-chaoshubs/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/create-your-own-chaoshubs/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/defining-hypothesis-using-probes/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/define-hypothesis-using-probes/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/including-chaos-in-harness-pipelines/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/include-chaos-in-harness-pipelines/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -156,37 +156,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/managing-chaos-projects/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/manage-chaos-projects/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/managing-chaos-scenarios/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/manage-chaos-scenarios/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/running-a-gameday/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/run-a-gameday/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/running-a-sample-chaos-scenario/placeholder/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/run-a-sample-chaos-scenario/placeholder/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/upgrading-the-hce-platform/content/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/upgrade-the-hce-platform/content/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/upgrading-the-hce-platform/control-plane/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/upgrade-the-hce-platform/control-plane/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/upgrading-the-hce-platform/execution-plane/</loc>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/upgrade-the-hce-platform/execution-plane/</loc>
          <lastmod>2022-09-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
