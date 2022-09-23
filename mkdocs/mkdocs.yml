@@ -78,6 +78,7 @@ markdown_extensions:
 
 nav:
     - Home: index.md
+    - HCE Overview: overview/placeholder.md
     - User Guide:
       - Overview: user-guide/overview/placeholder.md
       - Installation: user-guide/installation/kubernetes/placeholder.md
