@@ -176,6 +176,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/run-a-sample-chaos-scenario/ToDo/</loc>
+         <lastmod>2022-09-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/run-a-sample-chaos-scenario/placeholder/</loc>
          <lastmod>2022-09-26</lastmod>
          <changefreq>daily</changefreq>
