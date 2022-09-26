@@ -9,9 +9,9 @@
 
 - This exercise makes use of [`podtato-head`](https://github.com/podtato-head/podtato-head), a sample microservice application as the chaos target.
 - We will utilize a pre-defined demo chaos scenario from the Enterprise ChaosHub (an artifact source containing chaos experiment and scenario definitions) that will install the application, subject it to chaos for a fixed time period and then cleanup the application. 
+- The experiment will leverage the auto-installed Chaos Delegate `Self-Agent` to carry out the chaos
  
   **Note**: The application install and cleanup steps are generally not part of chaos scenario definitions, and have been included in this case purely for illustrative purposes. 
-- The experiment will leverage the auto-installed Chaos Delegate `Self-Agent` to carry out the chaos
 
 To learn more about [ChaosHub](https://ksatchit.github.io/hce-docs-staging/technical-reference/content/placeholder/#summary) and [Chaos Delegate](https://ksatchit.github.io/hce-docs-staging/technical-reference/content/placeholder/#summary), refer to the respective sections in technical reference documentation
 
