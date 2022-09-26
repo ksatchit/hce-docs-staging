@@ -141,5 +141,11 @@
 
   You're ready to go.
 
-
+# Summary
+  
+- You have successfully installed the Harness Chaos Engineering Control Plane and configured the **Admin** project
+  
+# Next Steps
+  
+- [Run your first Chaos Scenario](https://ksatchit.github.io/hce-docs-staging/user-guide/run-a-sample-chaos-scenario/placeholder/#usecase) on HCE after verifying the successful auto setup of the Self Chaos Delegate.
 
