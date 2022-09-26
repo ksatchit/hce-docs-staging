@@ -86,6 +86,9 @@
 
 - Verify that all pods are brought up successfully in the `litmus` namespace
 
+  Now, the HCE control plane is successfully brought up in your Kubernetes cluster. To learn more about the various control plane components, 
+  refer the [technical reference] section. 
+
 ## Access ChaosCenter
 
 - By default, Harness Chaos Engineering is accessed using a LoadBalancer. View the LoadBalancer IP (this can take a few minutes):
