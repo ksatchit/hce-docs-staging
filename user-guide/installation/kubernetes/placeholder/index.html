@@ -471,6 +471,26 @@
     Install Options
   </a>
   
+    <nav class="md-nav" aria-label="Install Options">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#helm" class="md-nav__link">
+    helm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kubectl" class="md-nav__link">
+    kubectl
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -1276,6 +1296,26 @@
     Install Options
   </a>
   
+    <nav class="md-nav" aria-label="Install Options">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#helm" class="md-nav__link">
+    helm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kubectl" class="md-nav__link">
+    kubectl
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -1321,18 +1361,121 @@
 
 <h1 id="install-the-harness-chaos-engineering-platform">Install the Harness Chaos Engineering Platform<a class="headerlink" href="#install-the-harness-chaos-engineering-platform" title="Permanent link">&para;</a></h1>
 <h2 id="objectives">Objectives<a class="headerlink" href="#objectives" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Install Harness Chaos Engineering in a Kubernetes cluster.</li>
+</ul>
 <h2 id="before-you-begin">Before You Begin<a class="headerlink" href="#before-you-begin" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Kubernetes Prerequisites</li>
+<li>Kubernetes cluster:</li>
+<li>A general purpose compute engine like GCP e2-standard-2 is sufficient.</li>
+<li>Kubernetes &gt;= 1.21.</li>
+<li>
+<p>A default storage class with 20GB usable disk space for the Persistent Volume</p>
+</li>
+<li>
+<p>Helm 3 installed in the cluster. See Installing Helm from Helm.</p>
+</li>
 </ul>
 <h2 id="install-options">Install Options<a class="headerlink" href="#install-options" title="Permanent link">&para;</a></h2>
+<h3 id="helm">helm<a class="headerlink" href="#helm" title="Permanent link">&para;</a></h3>
 <ul>
-<li>kubectl</li>
-<li>helm</li>
+<li>Add the Harness Helm repository:</li>
 </ul>
+<div class="highlight"><pre><span></span><code>helm repo add harness https://hce.chaosnative.com
+</code></pre></div>
+<ul>
+<li>View the repo: </li>
+</ul>
+<div class="highlight"><pre><span></span><code>helm repo list
+</code></pre></div>
+<p>Output:</p>
+<div class="highlight"><pre><span></span><code>NAME     URL
+harness  https://hce.chaosnative.com 
+</code></pre></div>
+<ul>
+<li>Update the Harness Helm repo:</li>
+</ul>
+<div class="highlight"><pre><span></span><code>helm repo update
+</code></pre></div>
+<p>Output:</p>
+<div class="highlight"><pre><span></span><code>Hang tight while we grab the latest from your chart repositories...
+...Successfully got an update from the &quot;harness&quot; chart repository
+Update Complete. ⎈Happy Helming!⎈
+</code></pre></div>
+<ul>
+<li>Install Harness Chaos Engineering ChaosCenter:</li>
+</ul>
+<div class="highlight"><pre><span></span><code>helm install -n litmus hce harness/hce --create-namespace
+</code></pre></div>
+<p>Output: </p>
+<div class="highlight"><pre><span></span><code>NAME: hce
+LAST DEPLOYED: Wed Aug  3 16:27:37 2022
+NAMESPACE: litmus
+STATUS: deployed
+REVISION: 1
+TEST SUITE: None
+NOTES:
+Thank you for installing hce 😀
+
+
+Your release is named hce and it&#39;s installed to namespace: litmus.
+
+Visit https://harness.io to find more info.
+</code></pre></div>
+<h3 id="kubectl">kubectl<a class="headerlink" href="#kubectl" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Install Harness Chaos Engineering with <code>cluster-admin</code> permissions in the litmus namespace by default.</li>
+</ul>
+<div class="highlight"><pre><span></span><code>kubectl apply -f https://hce.chaosnative.com/manifests/latest/hce-cluster-scope.yaml
+</code></pre></div>
 <h2 id="verify-installation">Verify Installation<a class="headerlink" href="#verify-installation" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Verify that all pods are brought up successfully in the <code>litmus</code> namespace</li>
+</ul>
 <h2 id="access-chaoscenter">Access ChaosCenter<a class="headerlink" href="#access-chaoscenter" title="Permanent link">&para;</a></h2>
+<ul>
+<li>By default, Harness Chaos Engineering is accessed using a LoadBalancer. View the LoadBalancer IP (this can take a few minutes):</li>
+</ul>
+<div class="highlight"><pre><span></span><code>kubectl get svc -n litmus
+</code></pre></div>
+<p>Example output using a helm install: </p>
+<div class="highlight"><pre><span></span><code>NAME                      TYPE           CLUSTER-IP     EXTERNAL-IP     PORT(S)                         AGE
+hce-auth-server-service   NodePort       10.24.5.26     &lt;none&gt;          9003:32156/TCP,3030:31024/TCP   2m28s
+hce-frontend-service      LoadBalancer   10.24.15.215   34.173.193.67   9091:32631/TCP                  2m28s
+hce-headless-mongo        ClusterIP      None           &lt;none&gt;          27017/TCP                       2m28s
+hce-mongo                 ClusterIP      10.24.14.6     &lt;none&gt;          27017/TCP                       2m28s
+hce-server-service        LoadBalancer   10.24.11.20    34.67.119.129   9002:31108/TCP,8000:30292/TCP   2m28s
+license-service           NodePort       10.24.13.205   &lt;none&gt;          80:31560/TCP                    2m28s
+</code></pre></div>
+<p>The EXTERNAL-IP might say pending for a few minutes while the load balancer is set up.</p>
+<ul>
+<li>Simply use your EXTERNAL-IP and PORT for the hce-frontend-service in this manner <EXTERNAL-IP>:<PORT> to access Harness Chaos Engineering: http://<EXTERNAL-IP>:<PORT>. For example:</li>
+</ul>
+<p><div class="highlight"><pre><span></span><code>http://34.71.48.119:9091/
+</code></pre></div>
+  This is an example IP and port. Yours will be different.</p>
+<p>ChaosCenter is displayed in your browser:</p>
+<p><img alt="image" src="https://user-images.githubusercontent.com/21166217/192174707-8d4c1338-d07a-4b8a-af66-68b37bc40206.png" /></p>
+<ul>
+<li>
+<p>Log in with the default credentials:</p>
+</li>
+<li>
+<p>Username: admin</p>
+</li>
+<li>Password: litmus</li>
+</ul>
+<p>Once you log in, you'll be asked to set a new password.  </p>
 <h2 id="license-activation">License Activation<a class="headerlink" href="#license-activation" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Next, upload your license file and click Activate License.</li>
+</ul>
+<p>You can request a license from the <a href="https://harness.io/trial/che-on-prem">Harness Chaos Engineering sign up page</a>.</p>
+<ul>
+<li>Drag and drop your license into Upload License File and click Activate License.</li>
+</ul>
+<p><img alt="image" src="https://user-images.githubusercontent.com/21166217/192174887-10bf9d53-6bbc-4732-9819-8feaea5e16d5.png" /></p>
+<p>You're ready to go.</p>
 
 
 
