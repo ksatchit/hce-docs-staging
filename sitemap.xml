@@ -146,6 +146,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/installation/kubernetes/ToDo/</loc>
+         <lastmod>2022-09-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/installation/kubernetes/placeholder/</loc>
          <lastmod>2022-09-26</lastmod>
          <changefreq>daily</changefreq>
