@@ -2,207 +2,207 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/faq/experiments/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/faq/install/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/faq/integrations/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/faq/platform/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/overview/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/technical-reference/APIs/chaos-manager/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/technical-reference/chaos-center/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/technical-reference/chaos-delegates/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/technical-reference/chaos-experiments/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/technical-reference/content/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/technical-reference/enterprise-hubs/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/technical-reference/hypothesis-validation/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/technical-reference/monitoring/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/troubleshooting/experiments/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/troubleshooting/install/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/troubleshooting/integrations/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/troubleshooting/platform/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/analyze-chaos-runs/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/build-your-own-chaos-experiments/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/cleanup-harness-chaos-installation/chaos-delegate-disconnect/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/cleanup-harness-chaos-installation/cleanup-litmus-installation/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/cleanup-harness-chaos-installation/content/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/connect-chaos-delegates/ToDo/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/connect-chaos-delegates/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/create-custom-chaos-scenarios/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/create-your-own-chaoshubs/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/define-hypothesis-using-probes/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/include-chaos-in-harness-pipelines/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/installation/kubernetes/ToDo/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/installation/kubernetes/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/installation/openshift/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/manage-chaos-projects/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/manage-chaos-scenarios/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/run-a-gameday/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/run-a-sample-chaos-scenario/ToDo/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/run-a-sample-chaos-scenario/placeholder/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/upgrade-the-hce-platform/content/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/upgrade-the-hce-platform/control-plane/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chaosnative.github.io/hce-docs-staging/user-guide/upgrade-the-hce-platform/execution-plane/</loc>
-         <lastmod>2022-09-29</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
